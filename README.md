@@ -1,2 +1,2 @@
-# alessio.prunotto.github.io
-This repository serves as my personal website
+# This repo contains my personal website (alessio.prunotto.github.io)
+The licenses are [...]
